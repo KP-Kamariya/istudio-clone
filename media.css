@@ -1,0 +1,112 @@
+@media screen and (max-width:992px) {
+
+    .right{
+        display: none;
+    }
+
+    .contant1{
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+     }
+     .left1 h1{
+        font-size: 40px;
+     }
+    .right1{
+        margin-top: 40px;
+        width: 100%;
+    }
+  
+    .contant2{
+        flex-wrap: wrap;
+        align-items: center;
+    }
+      .contant4 {
+        text-align: center;
+    }
+    .first4{
+        flex-direction: column;
+        align-items: center;
+    }
+    .contant5{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .tab{
+        flex-direction: column;
+    }
+    .contant6{
+        margin: 0 20px;
+        text-align: left;
+    }
+    .contant7{
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+    }
+    .red{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .blue{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+   .contant8{
+    text-align: center;
+   }
+    .data{
+        flex-wrap: wrap;
+    }
+    .contant10{
+        flex-direction: column;
+        text-align: center;
+    }
+    .contant11{
+        flex-direction: column;
+        text-align: center;
+    }
+    .contant13{
+        text-align: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .list1{
+        flex-direction: column;
+    }
+    .three{
+        display: flex;
+    }
+}
+@media screen and (max-width:768px){
+    .right{
+        display: none;
+    }
+    .contant1{
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+     }
+     .left1 h1{
+        font-size: 40px;
+     }
+    .right1{
+        margin-top: 40px;
+        width: 100%;
+    }
+    .contant2{
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .contant4 {
+        text-align: center;
+    }
+    .first4{
+        flex-direction: column;
+        align-items: center;
+    }
+ 
+}
